@@ -1,0 +1,8 @@
+torch>=2.3
+segmentation-models-pytorch>=0.4.0
+numpy
+scipy
+pandas
+matplotlib
+opencv-python-headless
+tabulate

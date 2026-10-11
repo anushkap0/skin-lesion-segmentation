@@ -1,0 +1,6 @@
+__pycache__/
+*.pt
+*.tmp
+raw/
+isic2018_study/
+.ipynb_checkpoints/
